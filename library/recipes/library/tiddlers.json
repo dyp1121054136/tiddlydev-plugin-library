@@ -1,0 +1,31 @@
+[
+    {
+        "author": "adte",
+        "dependents": "",
+        "description": "Basic Web Template",
+        "list": "readme",
+        "name": "base-web01",
+        "plugin-type": "plugin",
+        "title": "$:/plugins/adte/base-web01",
+        "type": "application/json",
+        "version": "0.0.1",
+        "Modern.TiddlyDev#SHA256-Hashed": "44918e3bf60715452dd00ebba769af7263b1e1548cc7120078a4ced582a42c3b",
+        "readme": "! base-web01\n\nBasic Web Template",
+        "requires-reload": "no"
+    },
+    {
+        "author": "Your Name",
+        "core-version": ">=5.1.22",
+        "dependents": "",
+        "description": "Description of this plugin",
+        "list": "readme config tree",
+        "plugin-type": "plugin",
+        "stability": "STABILITY_1_EXPERIMENTAL",
+        "title": "$:/plugins/adte/tiddlymapx",
+        "type": "application/json",
+        "version": "0.0.1",
+        "Modern.TiddlyDev#SHA256-Hashed": "e047b015487bc076e34e9cd1c2cdfcc6fbf2c3b8c4dbe216cdd2c15feddcabf9",
+        "readme": "\\procedure lingo-base() $:/plugins/adte/tiddlymapx/language/\n\n<<lingo Readme>>\n",
+        "requires-reload": "yes"
+    }
+]
